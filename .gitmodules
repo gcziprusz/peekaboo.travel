@@ -1,6 +1,1 @@
-[submodule "themes/massively"]
-	path = themes/massively
-	url = https://github.com/curtistimson/hugo-theme-massively.git
-[submodule "themes/startbootstrap-clean-blog"]
-	path = themes/startbootstrap-clean-blog
-	url = https://github.com/UtkarshVerma/startbootstrap-clean-blog.git
+
