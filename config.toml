@@ -1,0 +1,21 @@
+baseURL = "http://peekaboo.travel/"
+languageCode = "en-us"
+title = "Peekaboo Travel"
+theme = "startbootstrap-clean-blog"
+
+googleAnalytics = "UA-133850075-1"
+
+[[params.social]]
+    title = "instagram"
+    url = "https://www.instagram.com/acziprusz/"
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/gcziprusz"
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/Cziprusz"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
