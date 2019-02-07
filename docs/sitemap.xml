@@ -8,13 +8,40 @@
   </url>
   
   <url>
+    <loc>https://peekaboo.travel/tags/destination/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peekaboo.travel/tags/givaway/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://peekaboo.travel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peekaboo.travel/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peekaboo.travel/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://peekaboo.travel/post/my-first-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://peekaboo.travel/post/my-second-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://peekaboo.travel/post/my-third-post/</loc>
   </url>
   
 </urlset>

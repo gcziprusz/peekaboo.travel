@@ -3,14 +3,18 @@ languageCode = "en-us"
 title = "Peekaboo World"
 theme = "startbootstrap-clean-blog"
 publishDir = "docs"
-
 googleAnalytics = "UA-133850075-1"
 
+[author]
+  name = "Andrea Cziprusz"
+
 [params]
-  DateForm = "Mon, Jan 2, 2006"
+  DateForm = "Thu, Feb 7, 2018"
   Description = "Travel the world with kiddos"
   Author = "Andrea Cziprusz"
-  email = "anew09@gmail.com"
+  # email = "anew09@gmail.com"
+  postSummariesFrontPage = 2
+  showReadTime = true
 
 [[params.social]]
     title = "instagram"

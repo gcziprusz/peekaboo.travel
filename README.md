@@ -18,4 +18,4 @@ TODOs
 - add pinterest
 - add slovak, hungarian languages
 - add back tags
--
+- deal with https://www.peekaboo.travel ssl error
