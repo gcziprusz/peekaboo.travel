@@ -1,4 +1,4 @@
-baseURL = "https://peekaboo.travel/"
+baseURL = "https://peekaboo.travel"
 languageCode = "en-us"
 title = "Peekaboo World"
 theme = "startbootstrap-clean-blog"
