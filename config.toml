@@ -1,19 +1,26 @@
 baseURL = "http://peekaboo.travel/"
 languageCode = "en-us"
-title = "Peekaboo Travel"
+title = "Peekaboo World"
 theme = "startbootstrap-clean-blog"
+publishDir = "docs"
 
 googleAnalytics = "UA-133850075-1"
 
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Travel the world with kiddos"
+  Author = "Andrea Cziprusz"
+  email = "anew09@gmail.com"
+
 [[params.social]]
     title = "instagram"
-    url = "https://www.instagram.com/acziprusz/"
+    url = "https://www.instagram.com/peekabootravel"
 [[params.social]]
     title = "twitter"
-    url = "https://twitter.com/gcziprusz"
+    url = "https://twitter.com/peekabo78100593"
 [[params.social]]
     title = "facebook"
-    url = "https://www.facebook.com/Cziprusz"
+    url = "https://www.facebook.com/Peekaboo-400441367190219"
 
 [[menu.main]]
   name = "home"
