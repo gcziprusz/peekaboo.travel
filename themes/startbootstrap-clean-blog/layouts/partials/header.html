@@ -9,8 +9,14 @@
     <meta name="description" content="{{ if .Description }}{{ .Description }}{{ end }}">
     <meta name="author" content="{{ if .Params.authors }}{{ .Params.authors }}{{ else if .Site.Params.Author }}{{.Site.Params.Author}}{{ end }}">
     <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", " }}{{ end }}">
-
-
+    <meta name="msapplication-TileColor" content="#da532c">
+    
+    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
     <title>{{ .Title }} -- {{ .Site.Title }}</title>
 
     {{ if .RSSLink }}
@@ -40,7 +46,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
 
 <body>
