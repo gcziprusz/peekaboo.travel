@@ -10,3 +10,5 @@ Tags = ["destination","givaway"]
 DateForm = "Mon, Jan 2, 2006"
 Author = "Benoît Benedetti"
 +++
+
+This is my first post.
