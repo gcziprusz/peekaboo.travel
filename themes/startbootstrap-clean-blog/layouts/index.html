@@ -1,11 +1,11 @@
 {{ partial "header.html" .}}
 
     <!-- Page Header -->
-    <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/home-bg.jpg')">
+    <header class="intro-header" style="min-height:100%;margin:0;background-image: url('{{ .Site.BaseURL }}/img/home-bg.jpg')">
      <div class="container">
        <div class="row">
          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-           <div class="site-heading">
+           <div class="site-heading" style="padding-top:30%">
              <h1>{{ .Site.Title }}</h1>
              <hr class="small">
              {{ with .Site.Params.Description }}<span class="subheading">{{ . }}</span>{{ end }}
