@@ -6,12 +6,13 @@ publishDir = "docs"
 googleAnalytics = "UA-133850075-1"
 
 [author]
-  name = "Andrea Cziprusz"
+  name = "Andrea"
 
 [params]
   DateForm = "Thu, Feb 7, 2018"
-  Description = "Travel the world with kiddos"
-  Author = "Andrea Cziprusz"
+  # Description = "Travel the world with kiddos"
+  Description = "Stay Tuned ..."
+  Author = "Andrea"
   # email = "anew09@gmail.com"
   postSummariesFrontPage = 2
   showReadTime = true
