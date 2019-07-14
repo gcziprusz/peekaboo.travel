@@ -7,7 +7,9 @@ title : "About us"
 type : "page"
 ---
 
-![alt text](/img/about.jpg "About Us")
+<p align="center">
+  <img src="/img/about.jpg"/>
+</p>
 
 We are excited to embark on our big adventure, moving from Nashville, Tennessee to Budapest, Hungary. The vibrant city of Budapest will be our home base and from there we plan to travel throughout Europe to destinations both big and small. It will be a year of excitement, challenges, growth, and reflection. By sharing our stories we hope to inspire global curiosity and to encourage other families to seek out adventure.
 
