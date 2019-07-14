@@ -1,33 +1,53 @@
 baseURL = "https://peekaboo.travel"
 languageCode = "en-us"
 title = "Peekaboo World"
-theme = "startbootstrap-clean-blog"
+theme = "casper-two"
 publishDir = "docs"
-googleAnalytics = "UA-133850075-1"
+paginate="2"
+
+
+[params]
+  title       = "Peekaboo World"
+  subtitle    = ""
+
+  cover       = "img/home-bg.jpg"
+  description = "Here to inspire global curiosity and learning through travel.."
+  metaDescription = "Here to inspire global curiosity and learning through travel."
+  googleAnalytics = "UA-133850075-1"
+  customCSS = []
+
+  twitterName = "peekabo78100593"
+  fbName = "Peekaboo-400441367190219"
+  instagramName = "peekabootravel"
+
+  logo = "img/travel-icon-22.png"
+  orgName = "Andrea"
+  orgWebsite = "https://peekaboo.travel/about/"
+  orgDescription = "Here to inspire global curiosity and learning through travel."
+
+  author = "Andrea"
+  authorAvatar = "img/a.jpg"
+  authorLocation = "Budapest, HU"
+  authorWebsite = "https://peekaboo.travel/about/"
+  authorDescription = "Mom to two littles"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 100
 
 [author]
   name = "Andrea"
-
-[params]
-  DateForm = "Thu, Feb 7, 2018"
-  # Description = "Travel the world with kiddos"
-  Description = "Stay Tuned ..."
-  Author = "Andrea"
-  # email = "anew09@gmail.com"
-  postSummariesFrontPage = 2
-  showReadTime = true
-
-[[params.social]]
-    title = "instagram"
-    url = "https://www.instagram.com/peekabootravel"
-[[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/peekabo78100593"
-[[params.social]]
-    title = "facebook"
-    url = "https://www.facebook.com/Peekaboo-400441367190219"
-
-[[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
