@@ -1,6 +1,5 @@
 ---
 date: 2019-05-27T11:02:50-05:00
-draft: false
 noauthor : true
 share : false
 title : "About us"
