@@ -6,35 +6,20 @@
     <description>Recent content in Posts on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This is my first post</title>
-      <link>https://peekaboo.travel/post/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Getting Our Feet Wet</title>
+      <link>https://peekaboo.travel/getting-our-feet-wet/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://peekaboo.travel/post/my-first-post/</guid>
-      <description>This is my first post.</description>
-    </item>
-    
-    <item>
-      <title>This is my second post</title>
-      <link>https://peekaboo.travel/post/my-second-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://peekaboo.travel/post/my-second-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>This is my third post</title>
-      <link>https://peekaboo.travel/post/my-third-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://peekaboo.travel/post/my-third-post/</guid>
-      <description></description>
+      <guid>https://peekaboo.travel/getting-our-feet-wet/</guid>
+      <description>I had planned on getting started on my blog much sooner, but as it turns out, moving abroad and venturing between 4 countries in the first 3 weeks is quite a lot to navigate! We have a beautiful apartment in Budapest, which we have spent very little time in thus far. We are finally heading back to settle in and unpack!
+So what have we been up to?
+We spent the first two weeks traveling back and forth between Budapest and Gabe’s hometown of Fülek, Slovakia, which is 2 hours straight north from Budapest.</description>
     </item>
     
   </channel>

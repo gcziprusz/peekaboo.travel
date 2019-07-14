@@ -6,35 +6,29 @@
     <description>Recent content on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This is my first post</title>
-      <link>https://peekaboo.travel/post/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Getting Our Feet Wet</title>
+      <link>https://peekaboo.travel/getting-our-feet-wet/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://peekaboo.travel/post/my-first-post/</guid>
-      <description>This is my first post.</description>
+      <guid>https://peekaboo.travel/getting-our-feet-wet/</guid>
+      <description>I had planned on getting started on my blog much sooner, but as it turns out, moving abroad and venturing between 4 countries in the first 3 weeks is quite a lot to navigate! We have a beautiful apartment in Budapest, which we have spent very little time in thus far. We are finally heading back to settle in and unpack!
+So what have we been up to?
+We spent the first two weeks traveling back and forth between Budapest and Gabe’s hometown of Fülek, Slovakia, which is 2 hours straight north from Budapest.</description>
     </item>
     
     <item>
-      <title>This is my second post</title>
-      <link>https://peekaboo.travel/post/my-second-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>About us</title>
+      <link>https://peekaboo.travel/about/</link>
+      <pubDate>Mon, 27 May 2019 11:02:50 -0500</pubDate>
       
-      <guid>https://peekaboo.travel/post/my-second-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>This is my third post</title>
-      <link>https://peekaboo.travel/post/my-third-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://peekaboo.travel/post/my-third-post/</guid>
-      <description></description>
+      <guid>https://peekaboo.travel/about/</guid>
+      <description>We are excited to embark on our big adventure, moving from Nashville, Tennessee to Budapest, Hungary. The vibrant city of Budapest will be our home base and from there we plan to travel throughout Europe to destinations both big and small. It will be a year of excitement, challenges, growth, and reflection. By sharing our stories we hope to inspire global curiosity and to encourage other families to seek out adventure.</description>
     </item>
     
   </channel>
