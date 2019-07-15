@@ -6,10 +6,19 @@
     <description>Recent content on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Minutia</title>
+      <link>https://peekaboo.travel/the-minutia/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/the-minutia/</guid>
+      <description>How do you pack up and move abroad for a year? On the stateside, we rented our home, moved all of our belongings to a storage unit, found temporary “housing” for our pup, sold a car, and left a job. Gabe will continue to work as a software engineer. I will be happily unemployed and preoccupied with learning the ropes of our new city. Once the kids start school I will be enrolling in language classes and enjoying some free time to re-balance life as a mom.</description>
+    </item>
     
     <item>
       <title>Getting Our Feet Wet</title>
