@@ -6,10 +6,19 @@
     <description>Recent content on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lyon, France</title>
+      <link>https://peekaboo.travel/lyon-france/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/lyon-france/</guid>
+      <description>We had the pleasure of visiting Lyon on our World Cup trip to France. Lyon is a very welcoming city with lovely French charm. Although it ranks as the third largest city in France, we enjoyed the more leisurely pace and friendliness of the Lyonnaise people. As the culinary capitol of France, we were delighted by the cuisine. From the buttery croissants at the boulangerie on the corner to an elegant three course meal in the historic Port Vieux, it is fair to say that we ate our way through the city.</description>
+    </item>
     
     <item>
       <title>World Cup Champs</title>

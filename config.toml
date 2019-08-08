@@ -14,7 +14,7 @@ paginate="2"
   description = "Here to inspire global curiosity and learning through travel.."
   metaDescription = "Here to inspire global curiosity and learning through travel."
   googleAnalytics = "UA-133850075-1"
-  customCSS = []
+  customCSS =  ["css/site.css"]
 
   twitterName = "peekabo78100593"
   fbName = "Peekaboo-400441367190219"
