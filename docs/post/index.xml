@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marseille, France</title>
+      <link>https://peekaboo.travel/marseille-france/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/marseille-france/</guid>
+      <description>We took a speed train from Lyon to Marseille and stayed two nights in this eclectic port city. Marseille is located on the Mediterranean coast and has played a central role in trade since its origination in 600 B.C. It is a lively multicultural city with north African and Islamic influences. We stayed in the Old Port (Vieux Port), which is bustling with cafes and pubs late into the night.</description>
+    </item>
     
     <item>
       <title>Lyon, France</title>
