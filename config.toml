@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Peekaboo World"
 theme = "casper-two"
 publishDir = "docs"
-paginate="2"
+paginate="6"
 
 
 [params]
