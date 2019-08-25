@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://peekaboo.travel/szeged-hungary/</loc>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://peekaboo.travel/cassis-and-the-calanques-national-park-france/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -44,13 +49,13 @@
   
   <url>
     <loc>https://peekaboo.travel/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://peekaboo.travel/post/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
