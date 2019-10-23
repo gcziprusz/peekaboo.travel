@@ -4,3 +4,8 @@ img[src$='#center'] {
     max-width: 60%;
     height: auto;
   }
+@media only screen and (max-width: 1000px) {
+  img[src$='#center'] {
+    max-width: 100%;
+  }
+}
