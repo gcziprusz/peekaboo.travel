@@ -3,13 +3,13 @@
     width: 100%;
     max-width: 100%;
     margin: 1rem auto;
-    font-size: 1.3rem;
-    color: #9eabb3;
+    font-size: 2.5rem;
+    color: #000;
     text-align: center;
 }
 
 .pagination a {
-    color: #9eabb3;
+    color: #000;
     transition: all .2s ease;
 }
 
