@@ -156,6 +156,16 @@ The idea of moving to Budapest is several years in the making. Gabe is Hungarian
         
     </nav>  
   </div>
+  <script>
+    console.error("WHOAAAA")
+    var links = document.links;
+
+    for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+      if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+      }
+    }
+  </script>
 </footer>
 
 </div><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>

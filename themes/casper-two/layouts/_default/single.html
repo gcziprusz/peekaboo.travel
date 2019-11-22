@@ -14,7 +14,7 @@
       {{ partial "post-single" . }}
     </div>
 
-    <!-- <nav class="pagination" role="navigation">
+    <nav class="pagination" role="navigation">
       {{if .NextInSection}}
           <a class="newer-posts" href="{{ .NextInSection.RelPermalink }}">&larr; <span>Next Post</span></a>
       {{end}}
@@ -22,7 +22,7 @@
       {{if .PrevInSection}}
           <a class="older-posts" href="{{ .PrevInSection.RelPermalink }}"><span>Previous Post</span> &rarr;</a>
       {{end}}
-    </nav> -->
+    </nav>
 
     {{else}}
       {{ partial "post-single-sori" . }}

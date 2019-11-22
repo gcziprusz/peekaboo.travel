@@ -143,7 +143,13 @@
 </article>
     </div>
 
-    
+    <nav class="pagination" role="navigation">
+      
+          <a class="newer-posts" href="/minutia/">&larr; <span>Next Post</span></a>
+      
+      <span class="page-number">&nbsp;</span>
+      
+    </nav>
 
     
     
@@ -170,6 +176,16 @@
         
     </nav>  
   </div>
+  <script>
+    console.error("WHOAAAA")
+    var links = document.links;
+
+    for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+      if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+      }
+    }
+  </script>
 </footer>
 
 </div>

@@ -23,7 +23,6 @@
     position: absolute;
     display: inline-block;
     padding: 0 15px;
-    border: #ddd 1px dashed;
     text-decoration: none;
     transition: border .3s ease;
 }

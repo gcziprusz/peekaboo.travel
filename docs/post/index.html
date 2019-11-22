@@ -105,6 +105,35 @@
 
 <article class="post-card post"> 
     
+    <a class="post-card-image-link" href="https://peekaboo.travel/little-explorers-in-lisbon/">
+      <div class="post-card-image" style="background-image: url(https://peekaboo.travel/img/15/IMG_20191107_100652981_HDR.jpg)"></div>
+    </a>
+    
+
+    <div class="post-card-content">
+      <a class="post-card-content-link" href="https://peekaboo.travel/little-explorers-in-lisbon/">
+          <header class="post-card-header">
+              
+              <h2 class="post-card-title">Little Explorers in Lisbon: A Four Day Family Itinerary</h2>
+          </header>
+          <section class="post-card-excerpt">
+              
+                <p>Lisbon is one of the oldest cities in the world, full of magnificent history, culture, and charm. From its iconic azulejos tiles and sweeping views to its historical sites and delicious cuisine, Lisbon is a destination that the whole family can enjoy.
+Lisbon offers a great opportunity for global learning. All kids love adventures. Introduce a few of the famous Portueguese explorers from the Age of Discovery and talk about their voyages as you stroll Lisbon&rsquo;s marinas. ...  </p>
+              
+          </section>
+      </a>
+
+      <footer class="post-card-meta">
+          <img class="author-profile-image" src="https://peekaboo.travel/img/a.jpg" alt="Author" />
+          <span class="post-card-author"><a href="/about">Andrea Cziprusz</a></span>
+      </footer>
+    </div>
+</article>
+
+
+<article class="post-card post"> 
+    
     <a class="post-card-image-link" href="https://peekaboo.travel/a-charming-day-trip-to-szentendre/">
       <div class="post-card-image" style="background-image: url(https://peekaboo.travel/img/14/IMG_20191020_114923618_HDR.jpg)"></div>
     </a>
@@ -495,6 +524,16 @@ We spent the first two weeks traveling back and forth between Budapest and Gabeâ
         
     </nav>  
   </div>
+  <script>
+    console.error("WHOAAAA")
+    var links = document.links;
+
+    for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+      if (links[i].hostname != window.location.hostname) {
+        links[i].target = '_blank';
+      }
+    }
+  </script>
 </footer>
 
 </div><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
