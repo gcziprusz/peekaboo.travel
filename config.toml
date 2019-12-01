@@ -44,6 +44,11 @@ paginate="5000"
   weight = 200
 
 [[menu.main]]
+  name = "Keep in touch"
+  url = "/contact"
+  weight = 150
+
+[[menu.main]]
   name = "About"
   url = "/about"
   weight = 100
