@@ -20,3 +20,10 @@ Markdown reference
 ------------------
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Email 
+```
+cd email template && npx http-server
+
+visit in browser at http://192.168.1.127:8080
+```
