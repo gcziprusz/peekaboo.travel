@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>France on Peekaboo World</title>
+    <link>https://peekaboo.travel/countries/france/</link>
+    <description>Recent content in France on Peekaboo World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://peekaboo.travel/countries/france/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cassis and the Calanques National Park, France</title>
+      <link>https://peekaboo.travel/cassis-calanques/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/cassis-calanques/</guid>
+      <description>Cassis is a picturesque fishing town just 20km east of Marseille. The harbour is filled with sailboats and lined by colorful cafes and shops. An old chateau sits atop the rocky cliffs overlooking the city. It is a quaint, peaceful setting with magnificent views of the Mediterranean coastline. We walked through the harbour to begin our trek to the Calanques and returned to Cassis in the afternoon to enjoy a well-deserved al fresco meal.</description>
+    </item>
+    
+    <item>
+      <title>Marseille, France</title>
+      <link>https://peekaboo.travel/marseille-france/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/marseille-france/</guid>
+      <description>We took a speed train from Lyon to Marseille and stayed two nights in this eclectic port city. Marseille is located on the Mediterranean coast and has played a central role in trade since its origination in 600 B.C. It is a lively multicultural city with north African and Islamic influences. We stayed in the Old Port (Vieux Port), which is bustling with cafes and pubs late into the night.</description>
+    </item>
+    
+    <item>
+      <title>Lyon, France</title>
+      <link>https://peekaboo.travel/lyon-france/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/lyon-france/</guid>
+      <description>We had the pleasure of visiting Lyon on our World Cup trip to France. Lyon is a very welcoming city with lovely French charm. Although it ranks as the third largest city in France, we enjoyed the more leisurely pace and friendliness of the Lyonnaise people. As the culinary capitol of France, we were delighted by the cuisine. From the buttery croissants at the boulangerie on the corner to an elegant three course meal in the historic Port Vieux, it is fair to say that we ate our way through the city.</description>
+    </item>
+    
+    <item>
+      <title>World Cup Champs</title>
+      <link>https://peekaboo.travel/champs/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/champs/</guid>
+      <description>Gabe and I were fortunate enough to go on our first big kid-free getaway in France shortly after our arrival in Europe. Our main draw was watching the FIFA Women&amp;rsquo;s World Cup and seriously, what better place than France? We bought our tickets for the semi-finals and final match in Lyon prior to the group announcements and were just banking on the USA making it through. It was a tough road at times, as the US faced off against the host nation of France and a highly competitive English squad prior to meeting the Netherlands in the finals.</description>
+    </item>
+    
+  </channel>
+</rss>
