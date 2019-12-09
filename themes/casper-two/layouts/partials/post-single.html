@@ -1,20 +1,7 @@
 <article class="post-card post"> 
-    <!-- {{if .Params.image}}
-    <a class="post-card-image-link" href="{{ .Permalink }}">
-      <div class="post-card-image" style="background-image: url({{.Params.image | absURL}})"></div>
-    </a>
-    {{else}}
-    <a class="post-card-image-link" href="{{ .Permalink }}">
-      <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
-    </a>    
-    {{end}} -->
-
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
-              {{if .Params.tags }}<span class="post-card-tags">{{ range $index, $tag := .Params.tags }}
-              #{{$tag}} {{end}} </span>
-              {{ end }}
               <h2 class="post-card-title">{{.Title}}</h2>
           </header>
       </a>
@@ -23,6 +10,11 @@
       </section>
 
       <footer class="post-card-meta">
+          <div>
+            {{if .Page.Params.countries }}{{ range $index, $country := .Page.Params.countries }}
+            <span><a href="/countries/{{ $country | urlize }}/">{{$country}}</a>&nbsp;</span> {{end}}
+            {{ end }}
+          </div>
           <img class="author-profile-image" src="{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}" alt="Author" />
           <span class="post-card-author"><a href="/about">{{.Params.author | default .Site.Params.author}}</a></span>
       </footer>

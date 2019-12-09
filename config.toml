@@ -37,11 +37,22 @@ paginate="5000"
 
 [permalinks]
   post = "/:slug/"
+  
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  country = "countries"
+  city = "cities"
 
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "Destinations"
+  url = "/destinations"
+  weight = 175
 
 [[menu.main]]
   name = "Keep in touch"
