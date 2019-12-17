@@ -27,3 +27,9 @@ cd email template && npx http-server
 
 visit in browser at http://192.168.1.127:8080
 ```
+
+
+to preview email:
+```
+cd email template &&  go run serve.go 
+```
