@@ -37,7 +37,7 @@ func main() {
 					{
 					URL: "https://peekaboo.travel/family-weekend-on-the-danube-bend",
 					IMG: "https://peekaboo.travel/img/eml/visegrad.jpg" ,
-					Title: "NEW Peekabo Travel post: Family Weekend on the Danube Bend",
+					Title: "Family Weekend on the Danube Bend",
 					Description: "Family time is the best of time. This particular weekend trip was just that.  Family on both sides traveled from 3 different countries to meet up for a delightful weekend on the Danube Bend.",
 					},
 					{
