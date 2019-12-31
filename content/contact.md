@@ -1,8 +1,9 @@
 ---
 date: 2019-12-01T11:02:50-05:00
-noauthor : false
-share : false
-type : "page"
+noauthor: false
+share: false
+type: "page"
+comments: false
 ---
 
 <div class="resp-container contact">

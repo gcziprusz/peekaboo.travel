@@ -4,12 +4,11 @@ title = "Peekaboo World"
 theme = "casper-two"
 publishDir = "docs"
 paginate="5000"
-
+disqusShortname = "peekaboo"
 
 [params]
   title       = "Peekaboo World"
   subtitle    = ""
-
   cover       = "img/home-bg.jpg"
   description = "Here to inspire global curiosity and learning through travel.."
   metaDescription = "Here to inspire global curiosity and learning through travel."
