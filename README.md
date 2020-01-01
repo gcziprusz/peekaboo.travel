@@ -49,3 +49,9 @@ INSTAGRAM_TOKEN=
 curl -X GET \    
 ´  'https://graph.instagram.com/me/media?fields=id,caption,media_type,media_url,permalink,thumbnail_url,timestamp,username&access_token='
 ```
+
+## new Instagram post rebuild
+
+```
+hugo --ignoreCache
+```
