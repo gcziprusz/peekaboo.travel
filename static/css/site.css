@@ -18,6 +18,17 @@ img[src$="#center"] {
     min-height: 500px;
   }
 }
+hr {
+  margin: 2em;
+}
+.post-card-image.svg svg{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    bottom: 10px;
+    right: 10px;
+    fill:white;
+}
 
 .resp-iframe {
   position: absolute;
@@ -31,4 +42,10 @@ img[src$="#center"] {
   position: relative;
   overflow: hidden;
   padding-top: 56.25%;
+}
+
+.pagination .subscribe-button{
+  font-size: 1.5rem;
+  padding: 4px 10px;
+  border: 1px solid #000;
 }

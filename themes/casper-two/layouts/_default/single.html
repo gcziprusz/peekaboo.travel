@@ -16,11 +16,11 @@
 
     <nav class="pagination" role="navigation">
       {{if .NextInSection}}
-          <a class="newer-posts" href="{{ .NextInSection.RelPermalink }}">&larr; <span>Next Post</span></a>
+          <a class="newer-posts subscribe-button" href="{{ .NextInSection.RelPermalink }}">&larr; <span>Next Post</span></a>
       {{end}}
       <span class="page-number">&nbsp;</span>
       {{if .PrevInSection}}
-          <a class="older-posts" href="{{ .PrevInSection.RelPermalink }}"><span>Previous Post</span> &rarr;</a>
+          <a class="older-posts subscribe-button" href="{{ .PrevInSection.RelPermalink }}"><span>Previous Post</span> &rarr;</a>
       {{end}}
     </nav>
 

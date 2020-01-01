@@ -33,3 +33,19 @@ to preview email:
 ```
 cd email template &&  go run serve.go 
 ```
+
+## REFRESH LONG LIVED 60 day token 
+```
+curl -i -X GET "https://graph.instagram.com/refresh_access_token
+  ?grant_type=ig_refresh_token
+  &access_token={long-lived-access-token}"
+```
+
+## GET POSTS 
+
+```
+set env var 
+INSTAGRAM_TOKEN=
+curl -X GET \    
+´  'https://graph.instagram.com/me/media?fields=id,caption,media_type,media_url,permalink,thumbnail_url,timestamp,username&access_token='
+```
