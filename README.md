@@ -28,6 +28,11 @@ cd email template && npx http-server
 visit in browser at http://192.168.1.127:8080
 ```
 
+Email image dimensions:
+Top image 580x435 
+
+rest of images 220x165
+
 
 to preview email:
 ```

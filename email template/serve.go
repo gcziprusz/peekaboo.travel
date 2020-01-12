@@ -34,9 +34,14 @@ func main() {
     http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 				data := Email{
 				Sections: []EmailSection{
+						{
+						URL: "https://peekaboo.travel/a-memorable-weekend-in-krakow-poland",
+						IMG: "https://peekaboo.travel/img/eml/krakow.jpg" ,
+						Title: "A Memorable Weekend in Krakow, Poland",
+						Description: "We spent a chilly weekend getting to know Krakow and its intricate history.  Once a home to royalty, Krakow is a well-preserved medieval city located on the bank of the Vistula River in southern Poland.",},
 					{
 						URL: "https://peekaboo.travel/family-weekend-on-the-danube-bend",
-						IMG: "https://peekaboo.travel/img/eml/visegrad.jpg" ,
+						IMG: "https://peekaboo.travel/img/eml/5.jpg" ,
 						Title: "Family Weekend on the Danube Bend",
 						Description: "Family time is the best of time. This particular weekend trip was just that.  Family on both sides traveled from 3 different countries to meet up for a delightful weekend on the Danube Bend.",
 					},
@@ -50,11 +55,6 @@ func main() {
 						URL: "https://peekaboo.travel/a-magical-day-in-sintra-with-kids/",
 						Title: "A Magical Day in Sintra with Kids",
 						Description:"Sintra's medieval castles, lavish palaces, are Portuguese charm at it's best. Sintra is the most popular day trip from Lisbon.",
-					},{
-						IMG: "https://peekaboo.travel/img/eml/3.jpg", // size 220x220
-						URL: "https://peekaboo.travel/little-explorers-in-lisbon/",
-						Title: "Little Explorers in Lisbon",
-						Description: "Lisbon stole our hearts and we are already dreaming of a return trip to this incredible place.",
 					},
 				},
 			}

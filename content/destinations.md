@@ -10,3 +10,4 @@ comments: false
 - [🇭🇺 Hungary](/countries/hungary/)
 - [🇫🇷 France](/countries/france/)
 - [🇵🇹 Portugal](/countries/portugal/)
+- [🇵🇱 Poland](/countries/poland/)
