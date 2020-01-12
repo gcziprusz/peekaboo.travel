@@ -49,7 +49,7 @@ func main() {
 						URL: "https://peekaboo.travel/seaside-escape-to-cascais-portugal",
 						IMG: "https://peekaboo.travel/img/eml/1.jpg" ,
 						Title: "Seaside Escape to Cascais Portugal",
-						Description: "We had such a lovely day exploring the beaches and coastline of Cascais. If you're looking for warmer weather this winter, do keep Portugal in mind.",
+						Description: "We had such a lovely day exploring the beaches and coastline of Cascais. If you're looking for warmer weather this winter ...",
 					},{
 						IMG:"https://peekaboo.travel/img/eml/2.jpg",
 						URL: "https://peekaboo.travel/a-magical-day-in-sintra-with-kids/",
