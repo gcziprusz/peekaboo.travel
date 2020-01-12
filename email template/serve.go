@@ -36,7 +36,7 @@ func main() {
 				Sections: []EmailSection{
 						{
 						URL: "https://peekaboo.travel/a-memorable-weekend-in-krakow-poland",
-						IMG: "https://peekaboo.travel/img/eml/krakow.jpg" ,
+						IMG: "https://peekaboo.travel/img/eml/IMG_20191228_100722939_HDR.jpg" ,
 						Title: "A Memorable Weekend in Krakow, Poland",
 						Description: "We spent a chilly weekend getting to know Krakow and its intricate history.  Once a home to royalty, Krakow is a well-preserved medieval city located on the bank of the Vistula River in southern Poland.",},
 					{
