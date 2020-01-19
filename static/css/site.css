@@ -49,3 +49,8 @@ hr {
   padding: 4px 10px;
   border: 1px solid #000;
 }
+
+path[stroke="#646464"]:hover{
+  stroke: #26a8ed;
+  fill: #26a8ed;
+} 
