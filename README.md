@@ -40,6 +40,11 @@ cd email template &&  go run serve.go
 ```
 
 ## REFRESH LONG LIVED 60 day token 
+VISIT IN THE BROWSER: 
+https://developers.facebook.com/apps/573383180167802/instagram/basic-display/
+
+Search "GENERATE TOKEN"
+
 ```
 curl -i -X GET "https://graph.instagram.com/refresh_access_token
   ?grant_type=ig_refresh_token

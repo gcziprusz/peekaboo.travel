@@ -6,10 +6,19 @@
     <description>Recent content on Peekaboo World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://peekaboo.travel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Greece Family Road Trip</title>
+      <link>https://peekaboo.travel/greece-family-road-trip/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://peekaboo.travel/greece-family-road-trip/</guid>
+      <description>Part 1: Kid-friendly Athens We booked an off-season trip to Greece in search of some winter sun and were dazzled by all that Greece has to offer. From the amazing food to the diverse landscape and the juxtaposition of ancient and modern, Greece is a fantastic country for exploring as a family. A truly perfect off-season destination with mild winter weather, fewer tourists, and a more affordable cost. Most of the sites, including the Acropolis, are half price during the winter season (November- March).</description>
+    </item>
     
     <item>
       <title>A Memorable Weekend in Krakow, Poland</title>
@@ -206,8 +215,8 @@ We spent the first two weeks traveling back and forth between Budapest and Gabe�
       <pubDate>Mon, 27 May 2019 11:02:50 -0500</pubDate>
       
       <guid>https://peekaboo.travel/destinations/</guid>
-      <description>rdf:RDFdc:formatimage/svg+xml/dc:format/cc:Work/rdf:RDF
- 🇭🇺 Hungary 🇫🇷 France 🇵🇹 Portugal 🇵🇱 Poland  </description>
+      <description>rdf:RDFdc:formatimage/svg+xml/dc:format/cc:Work/rdf:RDF  
+ 🇭🇺 Hungary 🇫🇷 France 🇵🇹 Portugal 🇵🇱 Poland 🇬🇷 Greece  </description>
     </item>
     
   </channel>
