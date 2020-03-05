@@ -2,10 +2,12 @@
 {{ $id := getenv "INSTAGRAM_TOKEN" }}
 {{ $inst := getJSON $urlPre $id }}
 
-{{ range first 3 $inst.data }}
+{{ range $elem_index, $elem_val := $inst.data }}
+{{ if gt $elem_index 0}}
+{{ if lt $elem_index 4}}
   <article class="post-card post">
-    <a class="post-card-image-link" href="{{ .permalink }}">
-      <div class="post-card-image svg" style="background-image: url({{ .media_url | absURL}})">
+    <a class="post-card-image-link" href="{{ $elem_val.permalink }}">
+      <div class="post-card-image svg" style="background-image: url({{ $elem_val.media_url | absURL}})">
         <svg
           xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
           <path
@@ -15,11 +17,13 @@
     </a>
 
     <div class="post-card-content">
-      <a class="post-card-content-link" href="{{ .permalink }}">
+      <a class="post-card-content-link" href="{{ $elem_val.permalink }}">
         <section class="post-card-excerpt">
-          <p>{{ .caption | truncate 100}}</p>
+          <p>{{ $elem_val.caption | truncate 100}}</p>
         </section>
       </a>
     </div>
   </article>
+  {{ end }}
+  {{ end }}
 {{ end }}
