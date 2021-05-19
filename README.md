@@ -40,7 +40,7 @@ cd email template &&  go run serve.go
 ```
 
 ## REFRESH LONG LIVED 60 day token 
-VISIT IN THE BROWSER: 
+VISIT IN THE BROWSER (under anew09 acc): 
 https://developers.facebook.com/apps/573383180167802/instagram/basic-display/
 
 Search "GENERATE TOKEN"
