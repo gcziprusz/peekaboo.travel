@@ -1,4 +1,4 @@
-baseURL = "https://peekaboo.travel"
+baseURL = "https://gcziprusz.github.io/peekaboo.travel"
 languageCode = "en-us"
 title = "Peekaboo World"
 theme = "casper-two"
@@ -20,13 +20,13 @@ disqusShortname = "peekaboo"
 
   logo = "img/travel-icon-22.png"
   orgName = "Andrea"
-  orgWebsite = "https://peekaboo.travel/about/"
+  orgWebsite = "https://gcziprusz.github.io/peekaboo.travel/about/"
   orgDescription = "Here to inspire global curiosity and learning through travel."
 
   author = "Andrea"
   authorAvatar = "img/a.jpg"
   authorLocation = "Budapest, HU"
-  authorWebsite = "https://peekaboo.travel/about/"
+  authorWebsite = "https://gcziprusz.github.io/peekaboo.travel/about/"
   authorDescription = "Mom to two littles"
 
   pageNotFoundTitle = "404 - Page not found"
